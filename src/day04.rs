@@ -1,6 +1,5 @@
 use std::fs;
 use std::error::Error;
-use regex::Regex;
 
 type Order = Vec<(u8, char)>;
 
